@@ -1,0 +1,46 @@
+# File produced by AccuTrans 3D
+
+newmtl Box01
+  Ns 4.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd madeira.jpg
+
+newmtl Box02
+  Ns 4.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd madeira.jpg
+
+newmtl Box03
+  Ns 4.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd madeira.jpg
+
+newmtl Box04
+  Ns 4.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd madeira.jpg
+
+newmtl Box06
+  Ns 4.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd madeira.jpg

@@ -1,0 +1,55 @@
+# File produced by AccuTrans 3D
+
+newmtl pasted__lambert2SG
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd cloth.jpg
+
+newmtl pasted__mia_material_x1SG
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd cloth.jpg
+
+newmtl pasted__mia_material_x2SG
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd lOGO.png
+
+newmtl pasted__mia_material_x3SG
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd tela.jpg
+
+newmtl pasted__mia_material_x4SG
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd cloth.jpg
+
+newmtl pasted__White_plastic_TEXTSG
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 1.0 1.0 1.0
+  Ka 0 0 0
+  Ks 0 0 0
+  map_Kd lOGO.png
